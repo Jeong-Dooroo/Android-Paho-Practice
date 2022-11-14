@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
 
         try{
 
-            client.subscribe("RSE",0);
+            client.subscribe("MyTopic",0);
 
 
         }catch (MqttException e){
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void published(){
 
-        String topic = "RSE";
+        String topic = "MyTopic";
         String message = "the payload";
         try {
             client.publish(topic, message.getBytes(),0,false);
