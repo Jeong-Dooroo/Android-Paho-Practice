@@ -38,4 +38,6 @@ When user clicks 'publish' button, the application(publisher) will publish 'the 
 - <strong>Disconnection</strong><br />
 When user clicks 'disconnect' button, the application will disconnect from the server.<br />
 <br />
-https://user-images.githubusercontent.com/110809138/201587825-ede31d85-840c-40dd-a58e-09798f311379.mp4
+
+https://user-images.githubusercontent.com/110809138/201592168-93b2ac92-3578-401c-b41b-961ec89faa75.mp4
+
